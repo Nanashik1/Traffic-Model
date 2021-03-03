@@ -4,3 +4,5 @@ Modeling the traffic dynamics of a linear group of cars, following a lead car wi
 Traffic Dynamics Main is the main program created in Python to simulate the models with a number of conditions included. 
 
 Simulations are run and the results are reported in Traffic Dynamics Paper
+
+Traffic Dynamics Loops is a copy of Traffic Dynamics Main with changes that adjusts the model from a linear group to a circular group of cars 
