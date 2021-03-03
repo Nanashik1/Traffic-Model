@@ -1,2 +1,6 @@
 # Traffic-Driver-Model
-Modeling the traffic dynamics of a linear group of cars, following a lead car. Based on the Intelligent Driver Model developed by Martin Treiber, Ansgar Hennecke and Dirk Mhelbing
+Modeling the traffic dynamics of a linear group of cars, following a lead car with car dynamics created based on the Intelligent Driver Model developed by Martin Treiber, Ansgar Hennecke and Dirk Mhelbing
+
+Traffic Dynamics Part 1 is the main program created in Python to simulate the models with a number of conditions included. 
+
+Simulations are run and the results are reported in Traffic Dynamics Part 2
